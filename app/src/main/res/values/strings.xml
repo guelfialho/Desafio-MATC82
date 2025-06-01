@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CalculadoraAposentadoria</string>
+    <string name="hint_idade">Digite sua idade</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="sexo_masculino">Masculino</string>
+    <string name="sexo_feminino">Feminino</string>
+    <string name="erro_idade_vazia">Digite sua idade!</string>
+    <string name="mensagem_apto">Você já pode se aposentar!</string>
+    <string name="mensagem_faltam">Faltam %1$d anos para você se aposentar.</string>
 </resources>
